@@ -8,11 +8,11 @@
 
 **in your browser, access:** 
 
-    https://localhost:8080
+    http://localhost:8080
 
 
 **the server has three path**
 
     1 - /
-    2 - hello
-    3 - form.html
+    2 - /hello
+    3 - /form.html
